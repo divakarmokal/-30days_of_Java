@@ -1,4 +1,4 @@
-1. Draw Pattern in java
+1. Draw Pattern without loop in java
 class pattern{
     //print pattern
     public static void main (String args[]){
